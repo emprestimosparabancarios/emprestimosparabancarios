@@ -1,0 +1,76 @@
+body {font-family:Verdana, Geneva, sans-serif; font-size:12px; color:#000; line-height:1.6em; background:#FFF url(../imagens/bgFull.jpg) no-repeat center top fixed;}
+h1 { font-family:"Impact", Verdana, Geneva, sans-serif; font-size:2.2em; line-height:1.3em; margin:30px 0 0 0; color:#004071;}
+h2 {font-size:1.6em;}
+h3 {font-size:1.3em; line-height:1.5em; margin:20px 0 0 0; font-weight:bold; color:#004071;}
+h4 {font-size:1.2em;}
+h5 {font-size:1.1em;}
+h6 {font-size:0.9em; line-height:1.5em;}
+p {margin:10px 0;}
+.cadastroh3 {border-bottom: 1px solid #004071;}
+
+.firstH1 {margin-top:0px !important;}
+
+.base {width:800px; margin:0 auto;}
+
+.header {height:199px; margin-top:20px;}
+.headerLeft {background:url(../imagens/bgHeagerLeft.png) no-repeat; height:199px; float:left; width:15px;}
+.headerCenter {background:url(../imagens/bgHeager.png) repeat-x; float:left; height:199px; width:770px;}
+.headerCenter .liPri {margin:27px 0 0 4px;}
+.headerCenter .liSeg {margin:16px 0 0 11px;}
+.headerCenter .hcLeft {float:left;}
+.headerCenter .hcRight {float:right; margin:14px 8px 0 0;}
+.headerRight {background:url(../imagens/bgHeagerRight.png) no-repeat; height:199px; float:right; width:15px;}
+
+.content {}
+.contentLeft {/*background:url(../imagens/bgForm.jpg) center bottom repeat-x; min-height:500px;*/ width:255px; float:left; margin:10px 15px 0 0;}
+.contentLeftBase {float:left;}
+.contentLeftLogo {float:left; margin:20px 0 0 -25px;}
+.contentRight {background:#FFF; min-height:500px; width:430px; float:left; padding:30px 50px;}
+.contentRight h2 {color:#999999; font-size:1.1em; font-weight:bold; line-height:1.2em;}
+.contentRightAllContrato h2 {border-bottom:1px solid #999999; color:#999999; font-size:1.1em; font-weight:bold; line-height:1.2em; margin-bottom:10px; padding-bottom:5px;}
+.crTop {float:left;}
+.crBase {float:left;}
+.contentRightAll {float:left; width:530px;}
+.contentRightAllContrato {background:#FFF; min-height:500px; padding:30px; float:left; width:740px;}
+.contentRightAllContrato td {padding:0 10px 0 0;}
+.contentRightAllContrato #conheceu {width:190px;}
+.contentRightAllContrato label {display:block; color:#999;}
+.contentRightAllContrato h4 {margin:25px 0 0 0; font-weight:bold;}
+.contentRightAllContrato #obs {border-top:1px solid #bbb; border-right:1px solid #ddd; border-bottom:1px solid #ddd; border-left:1px solid #ddd; margin-bottom:10px;}
+.contentRightAllContrato table {margin-top:10px;}
+
+.menu {color:#FFF; margin-bottom:35px; margin-top:20px;}
+.menu ul {display:inline-block; padding:10px 0 0 0;}
+.menu li {background:url(../imagens/bgFFF40.png) repeat; display:inline; padding:8px 8px; margin:0px;}
+.menu a {text-decoration:none; color:#666; font-size:1.0em; font-weight:bold;}
+.menu a:hover {color:#004071;}
+.menu #pagina a {color:#F30;}
+
+.footer {width:430px; height:50px; margin:10px 0 30px 0; float:right; color:#004071; padding:0 50px; text-align: right;}
+.footerCadastro {width:740px; height:50px; margin:10px 0 30px 0; float:right; color:#004071; padding:0 30px}
+
+/*----FORM----*/
+.contentLeftForm2 {width:255px; float:left; margin-right:15px; color:#666666; font-family:Verdana,Geneva,sans-serif; font-size:12px;}
+.contentLeftForm {background:#FFF url(../imagens/bgForm.jpg) center bottom repeat-x; min-height:310px; width:255px; float:left; margin-right:15px; color:#666666; font-family:Verdana,Geneva,sans-serif; font-size:12px;}
+.contentLeftForm label {display:block; margin-bottom:4px; text-align:left;}
+.contentLeftForm .obs {width:230px; height:50px; overflow:hidden; border-top:1px solid #bbb; border-right:1px solid #ddd; border-bottom:1px solid #ddd; border-left:1px solid #ddd;}
+.contentLeftForm [type="submit"] {width:232px; margin:5px 11px 15px;}
+.formulario {max-width:250px;}
+.formulario .top {}
+.formulario input {width:225px;}
+.formulario li {display:block; margin:7px 12px;}
+.foneCampo {}
+.foneCampo li {display:inline-block;}
+.foneCampo .ddd input {width:40px;}
+.ddd, .fone {margin-left:12px; display:inline-block;}
+.fone input {width:162px;}
+#nomesujo {display:inline; width:auto;}
+#trabalha {display:block; width:230px;}
+#trabalha1 {display:inline; width:auto; float:left;}
+#separe {border-top:1px solid #CCCCCC; margin:10px 12px 5px; padding:5px 0 0;}
+
+.formBack {color:#D00007; font-family:Impact !important; font-size:21px; line-height:25px; margin:35px 15px 10px;}
+a[href="javascript:window.history.go(-1)"] {color:#000000; font-weight:bold; margin:0 15px; text-decoration:none;}
+
+.pPrivacidade {text-align:center;}
+.polPriv {background:none repeat scroll 0 0 transparent; padding:20px;}
